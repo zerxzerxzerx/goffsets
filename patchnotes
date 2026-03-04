@@ -1,1 +1,6 @@
-testing
+Added:  
+Local updatable offsets  
+
+Changed:  
+You no longer need a new build after each ROBLOX update.  
+Simply rerun the loader to update offsets automatically.  
