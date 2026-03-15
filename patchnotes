@@ -1,6 +1,16 @@
-Added:  
-Local updatable offsets  
+- TriggerBot is now more optimized and responsive, responding to more shots during flicks and fast paced scenarios.
+  - Prediction has also been added.
 
-Changed:  
-You no longer need a new build after each ROBLOX update.  
-Simply rerun the loader to update offsets automatically.  
+- Silent Aim has been improved and is now more consistent.
+  - Prediction has also been added.
+
+- ESP has been improved and made easier to read.
+  - Positioning has also been refined for better visibility.
+
+- PGBot is now much faster and more responsive than before.
+
+- Whitelist, View, and Manual Awareness options have been added to the new Mini Docker.
+
+- StreamProof has been fixed and is now fully usable.
+
+Note: A local Bug Reporter has also been added. You can report issues and select their severity (how much they impact performance).
