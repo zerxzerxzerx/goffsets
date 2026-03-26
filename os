@@ -8,10 +8,10 @@ namespace offsets {
 	inline constexpr uintptr_t AttributeToNext = 0x58;
 	inline constexpr uintptr_t AttributeToValue = 0x18;
 	inline constexpr uintptr_t AutoJumpEnabled = 0x1d8;
-	inline constexpr uintptr_t BeamBrightness = 0x0;
+	inline constexpr uintptr_t BeamBrightness = 0x190;
 	inline constexpr uintptr_t BeamColor = 0x0;
-	inline constexpr uintptr_t BeamLightEmission = 0x0;
-	inline constexpr uintptr_t BeamLightInfuence = 0x0;
+	inline constexpr uintptr_t BeamLightEmission = 0x19c;
+	inline constexpr uintptr_t BeamLightInfuence = 0x1a0;
 	inline constexpr uintptr_t Camera = 0x468;
 	inline constexpr uintptr_t CameraMaxZoomDistance = 0x320;
 	inline constexpr uintptr_t CameraMinZoomDistance = 0x324;
@@ -85,7 +85,7 @@ namespace offsets {
 	inline constexpr uintptr_t MaterialType = 0x0;
 	inline constexpr uintptr_t MaxHealth = 0x1b4;
 	inline constexpr uintptr_t MaxSlopeAngle = 0x1b8;
-	inline constexpr uintptr_t MeshPartColor3 = 0xd1;
+	inline constexpr uintptr_t MeshPartColor3 = 0x194;
 	inline constexpr uintptr_t ModelInstance = 0x398;
 	inline constexpr uintptr_t ModuleScriptByteCode = 0x150;
 	inline constexpr uintptr_t ModuleScriptBytecodePointer = 0x10;
