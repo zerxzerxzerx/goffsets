@@ -1,5 +1,3 @@
-#pragma once
-
 namespace offsets {
 	inline constexpr uintptr_t Adornee = 0x108;
 	inline constexpr uintptr_t Anchored = 0x2;
