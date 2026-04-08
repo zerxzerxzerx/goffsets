@@ -25,7 +25,7 @@ namespace offsets {
 	inline constexpr uintptr_t CanCollideMask = 0x8;
 	inline constexpr uintptr_t CanTouchMask = 0x10;
 	inline constexpr uintptr_t CharacterAppearanceId = 0x0;
-	inline constexpr uintptr_t Children = 0x78;
+	inline constexpr uintptr_t Children = 0x70;
 	inline constexpr uintptr_t ChildrenEnd = 0x8;
 	inline constexpr uintptr_t ClassDescriptor = 0x18;
 	inline constexpr uintptr_t ClassDescriptorToClassName = 0x8;
@@ -99,7 +99,7 @@ namespace offsets {
 	inline constexpr uintptr_t NameSize = 0x10;
 	inline constexpr uintptr_t OnDemandInstance = 0x0;
 	inline constexpr uintptr_t OutdoorAmbient = 0x108;
-	inline constexpr uintptr_t Parent = 0x68;
+	inline constexpr uintptr_t Parent = 0x70;
 	inline constexpr uintptr_t PartSize = 0x1b0;
 	inline constexpr uintptr_t Ping = 0x0;
 	inline constexpr uintptr_t PlaceId = 0x198;
@@ -141,7 +141,7 @@ namespace offsets {
 	inline constexpr uintptr_t TaskSchedulerPointer = 0x8428188;
 	inline constexpr uintptr_t Team = 0x2a0;
 	inline constexpr uintptr_t TeamColor = 0x364;
-	inline constexpr uintptr_t Tool_Grip_Position = 0x494;
+	inline constexpr uintptr_t Tool_Grip_Position = 0x4b4;
 	inline constexpr uintptr_t Transparency = 0xf0;
 	inline constexpr uintptr_t UserId = 0x2c8;
 	inline constexpr uintptr_t Value = 0xd0;
@@ -149,8 +149,8 @@ namespace offsets {
 	inline constexpr uintptr_t ViewportSize = 0x2e8;
 	inline constexpr uintptr_t VisualEngine = 0x10;
 	inline constexpr uintptr_t VisualEnginePointer = 0x7ef81d8;
-	inline constexpr uintptr_t VisualEngineToDataModel1 = 0xa50;
-	inline constexpr uintptr_t VisualEngineToDataModel2 = 0xb50;
+	inline constexpr uintptr_t VisualEngineToDataModel1 = 0xa40;
+	inline constexpr uintptr_t VisualEngineToDataModel2 = 0xb40;
 	inline constexpr uintptr_t WalkSpeed = 0x1d4;
 	inline constexpr uintptr_t WalkSpeedCheck = 0x3bc;
 	inline constexpr uintptr_t Workspace = 0x178;
