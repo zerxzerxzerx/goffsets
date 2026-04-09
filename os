@@ -12,7 +12,7 @@ namespace offsets {
 	inline constexpr uintptr_t BeamColor = 0x0;
 	inline constexpr uintptr_t BeamLightEmission = 0x19c;
 	inline constexpr uintptr_t BeamLightInfuence = 0x1a0;
-	inline constexpr uintptr_t Camera = 0x468;
+	inline constexpr uintptr_t Camera = 0x488;
 	inline constexpr uintptr_t CameraMaxZoomDistance = 0x320;
 	inline constexpr uintptr_t CameraMinZoomDistance = 0x324;
 	inline constexpr uintptr_t CameraMode = 0x328;
@@ -25,7 +25,7 @@ namespace offsets {
 	inline constexpr uintptr_t CanCollideMask = 0x8;
 	inline constexpr uintptr_t CanTouchMask = 0x10;
 	inline constexpr uintptr_t CharacterAppearanceId = 0x0;
-	inline constexpr uintptr_t Children = 0x70;
+	inline constexpr uintptr_t Children = 0x78;
 	inline constexpr uintptr_t ChildrenEnd = 0x8;
 	inline constexpr uintptr_t ClassDescriptor = 0x18;
 	inline constexpr uintptr_t ClassDescriptorToClassName = 0x8;
@@ -66,7 +66,7 @@ namespace offsets {
 	inline constexpr uintptr_t HumanoidDisplayName = 0xd0;
 	inline constexpr uintptr_t HumanoidState = 0x890;
 	inline constexpr uintptr_t HumanoidStateId = 0x20;
-	inline constexpr uintptr_t InputObject = 0x110;
+	inline constexpr uintptr_t InputObject = 0x100;
 	inline constexpr uintptr_t InsetMaxX = 0x0;
 	inline constexpr uintptr_t InsetMaxY = 0x0;
 	inline constexpr uintptr_t InsetMinX = 0x0;
@@ -85,7 +85,7 @@ namespace offsets {
 	inline constexpr uintptr_t MaterialType = 0x0;
 	inline constexpr uintptr_t MaxHealth = 0x1b4;
 	inline constexpr uintptr_t MaxSlopeAngle = 0x1b8;
-	inline constexpr uintptr_t MeshPartColor3 = 0xd1;
+	inline constexpr uintptr_t MeshPartColor3 = 0x194;
 	inline constexpr uintptr_t ModelInstance = 0x398;
 	inline constexpr uintptr_t ModuleScriptByteCode = 0x150;
 	inline constexpr uintptr_t ModuleScriptBytecodePointer = 0x10;
