@@ -332,7 +332,7 @@ namespace Offsets {
     }
 
     namespace MouseService {
-         inline constexpr uintptr_t InputObject = 0x118;
+         inline constexpr uintptr_t InputObject = 0x110;
          inline constexpr uintptr_t InputObject2 = 0x118;
          inline constexpr uintptr_t MousePosition = 0xec;
          inline constexpr uintptr_t SensitivityPointer = 0x307;
