@@ -66,7 +66,7 @@ namespace offsets {
 	inline constexpr uintptr_t HumanoidDisplayName = 0xd0;
 	inline constexpr uintptr_t HumanoidState = 0x8a8;
 	inline constexpr uintptr_t HumanoidStateId = 0x20;
-	inline constexpr uintptr_t InputObject = 0x110;
+	inline constexpr uintptr_t InputObject = 0x118;
 	inline constexpr uintptr_t InsetMaxX = 0x0;
 	inline constexpr uintptr_t InsetMaxY = 0x0;
 	inline constexpr uintptr_t InsetMinX = 0x0;
