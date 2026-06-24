@@ -77,7 +77,9 @@ namespace offsets {
 	inline constexpr uintptr_t JobStart = 0xc8;
 	inline constexpr uintptr_t Job_Name = 0x18;
 	inline constexpr uintptr_t JobsPointer = 0x815c668;
+	inline constexpr uintptr_t JumpHeight = 0x1ac;
 	inline constexpr uintptr_t JumpPower = 0x1b0;
+	inline constexpr uintptr_t UseJumpPower = 0x1ec;
 	inline constexpr uintptr_t LocalPlayer = 0x148;
 	inline constexpr uintptr_t LocalScriptByteCode = 0x1a8;
 	inline constexpr uintptr_t LocalScriptBytecodePointer = 0x10;
@@ -161,4 +163,5 @@ namespace offsets {
 	inline constexpr uintptr_t ScreenGuiEnabled = 0x4c4;
 	inline constexpr uintptr_t GuiObjectVisible = 0x5ad;
 	inline constexpr uintptr_t BoolValue = 0x10;
+	inline constexpr uintptr_t Jump = 0x1e6;
 }
