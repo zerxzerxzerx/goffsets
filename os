@@ -87,6 +87,7 @@ namespace offsets {
 	inline constexpr uintptr_t MaterialType = 0x0;
 	inline constexpr uintptr_t MaxHealth = 0x1b4;
 	inline constexpr uintptr_t MaxSlopeAngle = 0x1b8;
+	inline constexpr uintptr_t MeshId = 0x2f8;
 	inline constexpr uintptr_t MeshPartColor3 = 0xd1;
 	inline constexpr uintptr_t ModelInstance = 0x3d8;
 	inline constexpr uintptr_t ModuleScriptByteCode = 0x150;
@@ -143,6 +144,7 @@ namespace offsets {
 	inline constexpr uintptr_t TaskSchedulerPointer = 0x8179078;
 	inline constexpr uintptr_t Team = 0x2d0;
 	inline constexpr uintptr_t TeamColor = 0x3a4;
+	inline constexpr uintptr_t Texture = 0x328;
 	inline constexpr uintptr_t Tool_Grip_Position = 0x4cc;
 	inline constexpr uintptr_t Transparency = 0xf0;
 	inline constexpr uintptr_t UserId = 0x2f8;
