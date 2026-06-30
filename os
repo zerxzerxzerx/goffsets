@@ -162,7 +162,7 @@ namespace offsets {
 	inline constexpr uintptr_t WorkspaceToWorld = 0x418;
 	inline constexpr uintptr_t viewmatrix = 0x150;
 	inline constexpr uintptr_t CFrame = 0xc8;
-	inline constexpr uintptr_t BeamColor = 0x120;
+	inline constexpr uintptr_t BeamColor = 0x1d0;
 	inline constexpr uintptr_t GuiObjectVisible = 0x5b5;
 	inline constexpr uintptr_t BoolValue = 0x10;
     inline constexpr uintptr_t ScreenGuiEnabled = 0x4cc;
