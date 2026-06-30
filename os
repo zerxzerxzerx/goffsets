@@ -165,6 +165,5 @@ namespace offsets {
 	inline constexpr uintptr_t ScreenGuiEnabled = 0x4cc;
 	inline constexpr uintptr_t GuiObjectVisible = 0x5b5;
 	inline constexpr uintptr_t BoolValue = 0x10;
-    inline constexpr uintptr_t ColorMap = 0xe0;
 	inline constexpr uintptr_t Jump = 0x1e6;
 }
