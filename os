@@ -167,5 +167,6 @@ namespace offsets {
 	inline constexpr uintptr_t BoolValue = 0x10;
 	inline constexpr uintptr_t MeshId = 0x2f8;
 	inline constexpr uintptr_t Texture = 0x328;
+	inline constexpr uintptr_t ColorMap = 0xe0;
 	inline constexpr uintptr_t Jump = 0x1e6;
 }
