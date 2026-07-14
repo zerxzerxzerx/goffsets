@@ -33,7 +33,7 @@ namespace offsets {
 	inline constexpr uintptr_t ClockTime = 0x1a8;
 	inline constexpr uintptr_t CreatorId = 0x180;
 	inline constexpr uintptr_t DataModelDeleterPointer = 0x0;
-	inline constexpr uintptr_t DataModelPrimitiveCount = 0x498;
+	inline constexpr uintptr_t DataModelPrimitiveCount = 0x3c0;
 	inline constexpr uintptr_t DataModelToRenderView1 = 0x1c8;
 	inline constexpr uintptr_t DataModelToRenderView2 = 0x8;
 	inline constexpr uintptr_t DataModelToRenderView3 = 0x28;
@@ -44,7 +44,7 @@ namespace offsets {
 	inline constexpr uintptr_t DisplayName = 0xb8;
 	inline constexpr uintptr_t EvaluateStateMachine = 0x1d8;
 	inline constexpr uintptr_t FOV = 0x140;
-	inline constexpr uintptr_t FakeDataModelPointer = 0x84a9e98;
+	inline constexpr uintptr_t FakeDataModelPointer = 0x851f568;
 	inline constexpr uintptr_t FakeDataModelToDataModel = 0x1d0;
 	inline constexpr uintptr_t FogColor = 0xec;
 	inline constexpr uintptr_t FogEnd = 0x124;
@@ -58,7 +58,7 @@ namespace offsets {
 	inline constexpr uintptr_t Size = 0x530;
 	inline constexpr uintptr_t FrameSizeY = 0x0;
 	inline constexpr uintptr_t GameId = 0x188;
-	inline constexpr uintptr_t GameLoaded = 0x668;
+	inline constexpr uintptr_t GameLoaded = 0x578;
 	inline constexpr uintptr_t Gravity = 0x210;
 	inline constexpr uintptr_t Health = 0x188;
 	inline constexpr uintptr_t HealthDisplayDistance = 0x18c;
@@ -76,7 +76,7 @@ namespace offsets {
 	inline constexpr uintptr_t JobId = 0x120;
 	inline constexpr uintptr_t JobStart = 0xc8;
 	inline constexpr uintptr_t Job_Name = 0x18;
-	inline constexpr uintptr_t JobsPointer = 0x8041ec8;
+	inline constexpr uintptr_t JobsPointer = 0x80b7468;
 	inline constexpr uintptr_t JumpHeight = 0x1a0;
 	inline constexpr uintptr_t JumpPower = 0x1a4;
 	inline constexpr uintptr_t UseJumpPower = 0x1e0;
@@ -141,7 +141,7 @@ namespace offsets {
 	inline constexpr uintptr_t SunTextureId = 0x218;
 	inline constexpr uintptr_t TagList = 0x0;
 	inline constexpr uintptr_t TaskSchedulerMaxFPS = 0xb0;
-	inline constexpr uintptr_t TaskSchedulerPointer = 0x8041ec8;
+	inline constexpr uintptr_t TaskSchedulerPointer = 0x80b7468;
 	inline constexpr uintptr_t Team = 0x2d8;
 	inline constexpr uintptr_t TeamColor = 0x3ac;
 	inline constexpr uintptr_t Texture = 0x2c0;
@@ -152,7 +152,7 @@ namespace offsets {
 	inline constexpr uintptr_t Velocity = 0xf8;
 	inline constexpr uintptr_t ViewportSize = 0x2c8;
 	inline constexpr uintptr_t VisualEngine = 0x10;
-	inline constexpr uintptr_t VisualEnginePointer = 0x81d61c8;
+	inline constexpr uintptr_t VisualEnginePointer = 0x824b728;
 	inline constexpr uintptr_t VisualEngineToDataModel1 = 0xa90;
 	inline constexpr uintptr_t VisualEngineToDataModel2 = 0xbb8;
 	inline constexpr uintptr_t WalkSpeed = 0x1d0;
