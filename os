@@ -13,7 +13,7 @@ namespace offsets {
 	inline constexpr uintptr_t BeamLightEmission = 0x18c;
 	inline constexpr uintptr_t BeamLightInfuence = 0x190;
 	inline constexpr uintptr_t Camera = 0x468;
-	inline constexpr uintptr_t CameraMaxZoomDistance = 0x368;
+	inline constexpr uintptr_t CameraMaxZoomDistance = 0x1bd;
 	inline constexpr uintptr_t CameraMinZoomDistance = 0x36c;
 	inline constexpr uintptr_t CameraMode = 0x370;
 	inline constexpr uintptr_t CameraPos = 0xfc;
@@ -44,7 +44,7 @@ namespace offsets {
 	inline constexpr uintptr_t DisplayName = 0xb8;
 	inline constexpr uintptr_t EvaluateStateMachine = 0x1d8;
 	inline constexpr uintptr_t FOV = 0x140;
-	inline constexpr uintptr_t FakeDataModelPointer = 0x851f568;
+	inline constexpr uintptr_t FakeDataModelPointer = 0x7d28508;
 	inline constexpr uintptr_t FakeDataModelToDataModel = 0x1d0;
 	inline constexpr uintptr_t FogColor = 0xec;
 	inline constexpr uintptr_t FogEnd = 0x124;
@@ -59,7 +59,7 @@ namespace offsets {
 	inline constexpr uintptr_t FrameSizeY = 0x0;
 	inline constexpr uintptr_t GameId = 0x188;
 	inline constexpr uintptr_t GameLoaded = 0x578;
-	inline constexpr uintptr_t Gravity = 0x210;
+	inline constexpr uintptr_t Gravity = 0x1a4;
 	inline constexpr uintptr_t Health = 0x188;
 	inline constexpr uintptr_t HealthDisplayDistance = 0x18c;
 	inline constexpr uintptr_t HipHeight = 0x194;
@@ -76,7 +76,7 @@ namespace offsets {
 	inline constexpr uintptr_t JobId = 0x120;
 	inline constexpr uintptr_t JobStart = 0xc8;
 	inline constexpr uintptr_t Job_Name = 0x18;
-	inline constexpr uintptr_t JobsPointer = 0x80b7468;
+	inline constexpr uintptr_t JobsPointer = 0x82b9f48;
 	inline constexpr uintptr_t JumpHeight = 0x1a0;
 	inline constexpr uintptr_t JumpPower = 0x1a4;
 	inline constexpr uintptr_t UseJumpPower = 0x1e0;
@@ -95,7 +95,7 @@ namespace offsets {
 	inline constexpr uintptr_t ModuleScriptHash = 0x148;
 	inline constexpr uintptr_t MoonTextureId = 0xc8;
 	inline constexpr uintptr_t MousePosition = 0xd4;
-	inline constexpr uintptr_t MouseSensitivity = 0x0;
+	inline constexpr uintptr_t MouseSensitivity = 0x7ee9b58;
 	inline constexpr uintptr_t MoveDirection = 0x140;
 	inline constexpr uintptr_t Name = 0x98;
 	inline constexpr uintptr_t NameDisplayDistance = 0x1b0;
@@ -141,7 +141,7 @@ namespace offsets {
 	inline constexpr uintptr_t SunTextureId = 0x218;
 	inline constexpr uintptr_t TagList = 0x0;
 	inline constexpr uintptr_t TaskSchedulerMaxFPS = 0xb0;
-	inline constexpr uintptr_t TaskSchedulerPointer = 0x80b7468;
+	inline constexpr uintptr_t TaskSchedulerPointer = 0x82b9f48;
 	inline constexpr uintptr_t Team = 0x2d8;
 	inline constexpr uintptr_t TeamColor = 0x3ac;
 	inline constexpr uintptr_t Texture = 0x2c0;
@@ -152,14 +152,14 @@ namespace offsets {
 	inline constexpr uintptr_t Velocity = 0xf8;
 	inline constexpr uintptr_t ViewportSize = 0x2c8;
 	inline constexpr uintptr_t VisualEngine = 0x10;
-	inline constexpr uintptr_t VisualEnginePointer = 0x824b728;
+	inline constexpr uintptr_t VisualEnginePointer = 0x8447c68;
 	inline constexpr uintptr_t VisualEngineToDataModel1 = 0xa90;
 	inline constexpr uintptr_t VisualEngineToDataModel2 = 0xbb8;
 	inline constexpr uintptr_t WalkSpeed = 0x1d0;
 	inline constexpr uintptr_t WalkSpeedCheck = 0x3bc;
 	inline constexpr uintptr_t Workspace = 0x160;
 	inline constexpr uintptr_t Viewport = 0x28c;
-	inline constexpr uintptr_t WorkspaceToWorld = 0x3e0;
+	inline constexpr uintptr_t WorkspaceToWorld = 0x368;
 	inline constexpr uintptr_t viewmatrix = 0x150;
 	inline constexpr uintptr_t CFrame = 0xc8;
 	inline constexpr uintptr_t BeamColor = 0x0;
